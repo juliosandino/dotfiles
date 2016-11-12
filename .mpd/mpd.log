@@ -1,0 +1,317 @@
+Aug 08 13:44 : update: added Views/11 Controlla.mp3
+Aug 08 13:44 : update: added Views/18 Fire & Desire.mp3
+Aug 08 13:44 : update: added Views/02 9.mp3
+Aug 08 13:44 : update: added Views/04 Feel No Ways.mp3
+Aug 08 13:44 : update: added Views/08 With You (feat. PARTYNEXTDOOR).mp3
+Aug 08 13:44 : update: added Views/03 U With Me_.mp3
+Aug 08 13:44 : update: added Views/12 One Dance (feat. Wizkid & Kyla).mp3
+Aug 08 13:44 : update: added Views/09 Faithful (feat. Pimp C & dvsn).mp3
+Aug 08 13:44 : update: added Views/07 Redemption.mp3
+Aug 08 13:44 : update: added Views/16 Too Good (feat. Rihanna).mp3
+Aug 08 13:44 : update: added Views/05 Hype.mp3
+Aug 08 13:44 : update: added Views/14 Childs Play.mp3
+Aug 08 13:44 : update: added Views/10 Still Here.mp3
+Aug 08 13:44 : update: added Views/17 Summers Over Interlude.mp3
+Aug 08 13:44 : update: added Views/06 Weston Road Flows.mp3
+Aug 08 13:44 : update: added Views/13 Grammys (feat. Future).mp3
+Aug 08 13:44 : update: added Views/20 Hotline Bling.mp3
+Aug 08 13:44 : update: added Views/15 Pop Style.mp3
+Aug 08 13:44 : update: added Views/19 Views.mp3
+Aug 08 13:44 : update: added Views/01 Keep the Family Close.mp3
+Aug 08 13:44 : client: [0] opened from 127.0.0.1:49322
+Aug 08 13:44 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Aug 08 13:44 : avahi: Service 'Music Player' successfully established.
+Aug 08 13:45 : output: Failed to open mixer for 'music'
+Aug 08 13:45 : player: played "Views/01 Keep the Family Close.mp3"
+Aug 08 13:48 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Aug 08 13:49 : output: Failed to open mixer for 'music'
+Aug 08 13:52 : player: played "Views/15 Pop Style.mp3"
+Aug 08 13:54 : output: Failed to open mixer for 'music'
+Aug 08 13:54 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Aug 08 13:54 : player: played "Views/01 Keep the Family Close.mp3"
+Aug 08 13:54 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Aug 08 13:54 : player: played "Views/15 Pop Style.mp3"
+Aug 08 13:54 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Aug 08 13:56 : output: Failed to open mixer for 'music'
+Aug 08 13:56 : output: Failed to open mixer for 'music'
+Aug 08 13:57 : client: [1] opened from [::1]:51636
+Aug 08 13:57 : client: [2] opened from [::1]:51638
+Aug 08 13:57 : client: [1] closed
+Aug 08 13:57 : client: [2] closed
+Aug 08 14:01 : client: [0] closed
+Aug 08 14:02 : player: played "Views/01 Keep the Family Close.mp3"
+Aug 08 14:02 : avahi: Service 'Music Player' successfully established.
+Aug 08 14:02 : client: [0] opened from [::1]:52306
+Aug 08 14:02 : client: [1] opened from [::1]:52308
+Aug 08 14:02 : client: [2] opened from [::1]:52310
+Aug 08 14:02 : client: [0] closed
+Aug 08 14:02 : client: [1] closed
+Aug 08 14:03 : client: [3] opened from 127.0.0.1:50190
+Aug 08 14:03 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Aug 08 14:03 : client: [2] closed
+Aug 08 14:03 : player: played "Views/01 Keep the Family Close.mp3"
+Aug 08 14:03 : output: Failed to open mixer for 'music'
+Aug 08 14:04 : player: played "Views/08 With You (feat. PARTYNEXTDOOR).mp3"
+Aug 08 14:04 : output: Failed to open mixer for 'music'
+Aug 08 14:05 : client: [3] closed
+Aug 08 14:05 : client: [4] opened from 127.0.0.1:50208
+Aug 08 14:07 : player: played "Views/08 With You (feat. PARTYNEXTDOOR).mp3"
+Aug 08 14:07 : output: Failed to open mixer for 'music'
+Aug 08 14:12 : player: played "Views/20 Hotline Bling.mp3"
+Aug 08 14:13 : output: Failed to open mixer for 'music'
+Aug 08 14:15 : output: Failed to open mixer for 'music'
+Aug 08 14:17 : player: played "Views/16 Too Good (feat. Rihanna).mp3"
+Aug 08 14:23 : config: option 'path' on line 10 was not recognized
+Aug 08 14:23 : output: Failed to open mixer for 'music'
+Aug 08 14:23 : avahi: Service 'Music Player' successfully established.
+Aug 08 14:24 : client: [0] opened from 127.0.0.1:50802
+Aug 08 14:24 : client: [0] closed
+Aug 08 14:25 : player: played "Views/16 Too Good (feat. Rihanna).mp3"
+Aug 08 14:25 : client: [1] opened from 127.0.0.1:50810
+Aug 08 14:25 : output: Failed to open mixer for 'music'
+Aug 08 14:29 : player: played "Views/14 Childs Play.mp3"
+Aug 08 14:31 : output: Failed to open mixer for 'music'
+Aug 08 14:32 : client: [1] closed
+Aug 08 14:33 : client: [2] opened from 127.0.0.1:50874
+Aug 08 14:33 : client: [2] closed
+Aug 08 14:33 : client: [3] opened from 127.0.0.1:50908
+Aug 08 14:36 : player: played "Views/20 Hotline Bling.mp3"
+Aug 08 14:38 : client: [3] closed
+Aug 08 14:39 : client: [4] opened from 127.0.0.1:50946
+Aug 08 14:40 : client: [4] closed
+Aug 08 14:40 : player: played "Views/16 Too Good (feat. Rihanna).mp3"
+Aug 08 14:44 : player: played "Views/14 Childs Play.mp3"
+Aug 08 14:46 : client: [5] opened from 127.0.0.1:51206
+Aug 08 14:46 : output: Failed to open mixer for 'music'
+Aug 08 14:49 : player: played "Views/11 Controlla.mp3"
+Aug 08 14:49 : output: Failed to open mixer for 'music'
+Aug 08 14:49 : player: played "Views/08 With You (feat. PARTYNEXTDOOR).mp3"
+Aug 08 14:49 : db: No such directory
+Aug 08 14:49 : errno: Failed to open "/home/julio/.mpd/playlists/9.m3u": No such file or directory
+Aug 08 14:49 : playlist: No such playlist
+Aug 08 14:49 : output: Failed to open mixer for 'music'
+Aug 08 14:51 : client: [5] closed
+Aug 08 14:51 : client: [6] opened from 127.0.0.1:51256
+Aug 08 14:51 : client: [7] opened from 127.0.0.1:51258
+Aug 08 14:52 : player: played "Views/01 Keep the Family Close.mp3"
+Aug 08 14:53 : client: [7] closed
+Aug 08 14:53 : client: [6] closed
+Aug 08 14:54 : client: [8] opened from 127.0.0.1:51314
+Aug 08 14:56 : player: played "Views/02 9.mp3"
+Aug 08 14:57 : player: played "Views/03 U With Me_.mp3"
+Aug 08 15:01 : client: [9] opened from 127.0.0.1:51552
+Aug 08 15:02 : client: [9] closed
+Aug 08 15:02 : client: [8] closed
+Aug 08 15:02 : client: [10] opened from 127.0.0.1:51556
+Aug 08 15:03 : client: [10] closed
+Aug 08 15:12 : client: [11] opened from 127.0.0.1:51828
+Aug 08 15:13 : config: option 'path' on line 10 was not recognized
+Aug 08 15:13 : client: [0] opened from 127.0.0.1:51840
+Aug 08 15:13 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Aug 08 15:13 : avahi: Service 'Music Player' successfully established.
+Aug 08 15:18 : config: option 'path' on line 10 was not recognized
+Aug 08 15:18 : client: [0] opened from 127.0.0.1:52154
+Aug 08 15:18 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Aug 08 15:18 : client: [1] opened from 127.0.0.1:52156
+Aug 08 15:18 : avahi: Service 'Music Player' successfully established.
+Aug 08 15:18 : client: [1] closed
+Aug 08 15:21 : config: option 'path' on line 10 was not recognized
+Aug 08 15:21 : client: [0] opened from 127.0.0.1:52382
+Aug 08 15:21 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Aug 08 15:21 : avahi: Service 'Music Player' successfully established.
+Aug 08 15:21 : client: [0] closed
+Aug 08 15:22 : client: [1] opened from 127.0.0.1:52390
+Aug 08 15:22 : client: [1] closed
+Aug 08 15:23 : client: [2] opened from 127.0.0.1:52400
+Aug 08 15:23 : client: [2] closed
+Sep 30 08:57 : config: option 'path' on line 10 was not recognized
+Sep 30 08:57 : update: added Views/11 Controlla.mp3
+Sep 30 08:57 : update: added Views/18 Fire & Desire.mp3
+Sep 30 08:57 : update: added Views/02 9.mp3
+Sep 30 08:57 : update: added Views/04 Feel No Ways.mp3
+Sep 30 08:57 : update: added Views/08 With You (feat. PARTYNEXTDOOR).mp3
+Sep 30 08:57 : update: added Views/03 U With Me_.mp3
+Sep 30 08:57 : update: added Views/12 One Dance (feat. Wizkid & Kyla).mp3
+Sep 30 08:57 : update: added Views/09 Faithful (feat. Pimp C & dvsn).mp3
+Sep 30 08:57 : update: added Views/07 Redemption.mp3
+Sep 30 08:57 : update: added Views/16 Too Good (feat. Rihanna).mp3
+Sep 30 08:57 : update: added Views/05 Hype.mp3
+Sep 30 08:57 : update: added Views/14 Childs Play.mp3
+Sep 30 08:57 : update: added Views/10 Still Here.mp3
+Sep 30 08:57 : update: added Views/17 Summers Over Interlude.mp3
+Sep 30 08:57 : update: added Views/06 Weston Road Flows.mp3
+Sep 30 08:57 : update: added Views/13 Grammys (feat. Future).mp3
+Sep 30 08:57 : update: added Views/20 Hotline Bling.mp3
+Sep 30 08:57 : update: added Views/15 Pop Style.mp3
+Sep 30 08:57 : update: added Views/19 Views.mp3
+Sep 30 08:57 : update: added Views/01 Keep the Family Close.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/01. Ultralight Beam.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/17. No More Parties In LA.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/11. FML.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/06. Low Lights.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/16. 30 Hours.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/18. Facts (Charlie Heat Version).mp3
+Sep 30 08:57 : update: added The Life Of Pablo/07. Highlights.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/15. Siiiiiiiiilver Surffffeeeeer Intermissi.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/02. Father Stretch My Hands Pt. 1.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/13. Wolves.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/05. Feedback.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/03. Pt. 2.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/19. Fade.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/10. Waves.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/09. I Love Kanye.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/12. Real Friends.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/04. Famous.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/14. Frank's Track.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/08. Freestyle 4.mp3
+Sep 30 08:57 : update: added The Life Of Pablo/20. Saint Pablo.mp3
+Sep 30 08:57 : avahi: Service 'Music Player' successfully established.
+Sep 30 08:58 : config: option 'path' on line 10 was not recognized
+Sep 30 08:58 : avahi: Service 'Music Player' successfully established.
+Sep 30 08:58 : client: [0] opened from 127.0.0.1:37150
+Sep 30 08:58 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Sep 30 08:58 : client: [0] closed
+Sep 30 09:28 : config: option 'path' on line 10 was not recognized
+Sep 30 09:28 : avahi: Service 'Music Player' successfully established.
+Sep 30 09:28 : client: [0] opened from 127.0.0.1:38044
+Sep 30 09:28 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Sep 30 09:28 : client: [0] closed
+Sep 30 09:29 : config: option 'path' on line 10 was not recognized
+Sep 30 09:29 : avahi: Service 'Music Player' successfully established.
+Sep 30 09:29 : client: [0] opened from 127.0.0.1:38046
+Sep 30 09:29 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Sep 30 09:29 : output: Failed to open mixer for 'music'
+Sep 30 09:30 : client: [0] closed
+Sep 30 09:30 : client: [1] opened from 127.0.0.1:38230
+Sep 30 09:30 : client: [1] closed
+Sep 30 09:30 : update: added Blonde/17 Futura Free.mp3
+Sep 30 09:30 : update: added Blonde/13 Close to You.mp3
+Sep 30 09:30 : update: added Blonde/15 Seigfried.mp3
+Sep 30 09:30 : update: added Blonde/16 Godspeed.mp3
+Sep 30 09:30 : update: added Blonde/01 Nikes.mp3
+Sep 30 09:30 : update: added Blonde/11 Pretty Sweet.mp3
+Sep 30 09:30 : update: added Blonde/14 White Ferrari.mp3
+Sep 30 09:30 : update: added Blonde/08 Good Guy.mp3
+Sep 30 09:30 : update: added Blonde/05 Solo.mp3
+Sep 30 09:30 : update: added Blonde/06 Skyline To.mp3
+Sep 30 09:30 : update: added Blonde/07 Self Control.mp3
+Sep 30 09:30 : update: added Blonde/03 Pink + White.mp3
+Sep 30 09:30 : update: added Blonde/04 Be Yourself.mp3
+Sep 30 09:30 : update: added Blonde/12 Facebook Story.mp3
+Sep 30 09:30 : update: added Blonde/09 Nights.mp3
+Sep 30 09:30 : update: added Blonde/02 Ivy.mp3
+Sep 30 09:30 : update: added Blonde/10 Solo (Reprise).mp3
+Sep 30 09:30 : client: [2] opened from 127.0.0.1:38232
+Sep 30 09:30 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Sep 30 09:32 : client: [2] closed
+Sep 30 09:34 : client: [3] opened from 127.0.0.1:38342
+Sep 30 09:35 : player: played "Blonde/02 Ivy.mp3"
+Sep 30 09:35 : output: Failed to open mixer for 'music'
+Sep 30 09:37 : client: [3] closed
+Sep 30 09:37 : client: [4] opened from 127.0.0.1:38970
+Sep 30 09:39 : player: played "Blonde/14 White Ferrari.mp3"
+Sep 30 09:40 : client: [4] closed
+Sep 30 09:45 : client: [5] opened from 127.0.0.1:39442
+Sep 30 09:46 : output: Failed to open mixer for 'music'
+Sep 30 09:46 : player: played "Blonde/14 White Ferrari.mp3"
+Sep 30 09:50 : player: played "Blonde/02 Ivy.mp3"
+Sep 30 09:54 : client: [5] closed
+Sep 30 09:54 : client: [6] opened from 127.0.0.1:39556
+Sep 30 09:54 : player: played "Blonde/14 White Ferrari.mp3"
+Sep 30 09:54 : client: [6] closed
+Sep 30 09:54 : client: [7] opened from 127.0.0.1:39558
+Sep 30 09:54 : output: Failed to open mixer for 'music'
+Sep 30 09:56 : client: [7] closed
+Sep 30 09:56 : client: [8] opened from 127.0.0.1:39560
+Sep 30 09:58 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Sep 30 10:02 : client: [8] closed
+Sep 30 10:02 : player: played "Blonde/02 Ivy.mp3"
+Sep 30 10:04 : output: Failed to open mixer for 'music'
+Sep 30 10:04 : avahi: Service 'Music Player' successfully established.
+Sep 30 10:04 : client: [0] opened from 127.0.0.1:39586
+Sep 30 10:04 : player: played "Blonde/02 Ivy.mp3"
+Sep 30 10:04 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Sep 30 10:07 : player: played "The Life Of Pablo/10. Waves.mp3"
+Sep 30 10:08 : output: Failed to open mixer for 'music'
+Sep 30 10:08 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Sep 30 10:10 : output: Failed to open mixer for 'music'
+Sep 30 10:12 : player: played "Blonde/14 White Ferrari.mp3"
+Sep 30 10:15 : output: Failed to open mixer for 'music'
+Sep 30 10:15 : player: played "The Life Of Pablo/01. Ultralight Beam.mp3"
+Sep 30 10:15 : output: Failed to open mixer for 'music'
+Sep 30 10:16 : player: played "Views/19 Views.mp3"
+Sep 30 10:16 : output: Failed to open mixer for 'music'
+Sep 30 10:16 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Sep 30 10:16 : output: Failed to open mixer for 'music'
+Sep 30 10:16 : client: [0] closed
+Sep 30 10:17 : client: [1] opened from 127.0.0.1:39960
+Sep 30 10:17 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Sep 30 10:18 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Sep 30 10:19 : client: [1] closed
+Nov 11 11:58 : avahi: Service 'Music Player' successfully established.
+Nov 11 11:58 : client: [0] opened from [::1]:47830
+Nov 11 11:58 : client: [0] closed
+Nov 11 11:58 : client: [1] opened from [::1]:47832
+Nov 11 11:58 : client: [1] closed
+Nov 11 11:59 : client: [2] opened from 127.0.0.1:40158
+Nov 11 11:59 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Nov 11 11:59 : output: Failed to open mixer for 'music'
+Nov 11 11:59 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Nov 11 11:59 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Nov 11 11:59 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Nov 11 12:01 : player: played "Blonde/02 Ivy.mp3"
+Nov 11 12:01 : player: played "Blonde/02 Ivy.mp3"
+Nov 11 12:01 : player: played "Blonde/14 White Ferrari.mp3"
+Nov 11 12:02 : client: [2] closed
+Nov 11 12:02 : client: [3] opened from 127.0.0.1:40172
+Nov 11 12:02 : player: played "Blonde/02 Ivy.mp3"
+Nov 11 12:02 : output: Failed to open mixer for 'music'
+Nov 11 12:02 : player: played "Views/12 One Dance (feat. Wizkid & Kyla).mp3"
+Nov 11 12:02 : player: played "Blonde/02 Ivy.mp3"
+Nov 11 12:02 : output: Failed to open mixer for 'music'
+Nov 11 12:02 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 12:02 : output: Failed to open mixer for 'music'
+Nov 11 12:03 : db: No such directory
+Nov 11 12:03 : errno: Failed to open "/home/julio/.mpd/playlists/Real Friends.m3u": No such file or directory
+Nov 11 12:03 : playlist: No such playlist
+Nov 11 12:04 : db: No such directory
+Nov 11 12:04 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 12:05 : output: Failed to open mixer for 'music'
+Nov 11 12:05 : client: [3] closed
+Nov 11 12:06 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 12:10 : output: Failed to open mixer for 'music'
+Nov 11 12:10 : avahi: Service 'Music Player' successfully established.
+Nov 11 12:10 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 12:10 : output: Failed to open mixer for 'music'
+Nov 11 12:10 : avahi: Service 'Music Player' successfully established.
+Nov 11 12:10 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 12:11 : output: Failed to open mixer for 'music'
+Nov 11 12:11 : client: [0] opened from 127.0.0.1:40304
+Nov 11 12:11 : avahi: Service 'Music Player' successfully established.
+Nov 11 12:11 : client: [0] closed
+Nov 11 12:11 : client: [1] opened from 127.0.0.1:40306
+Nov 11 12:12 : client: [1] closed
+Nov 11 12:12 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 15:24 : output: Failed to open mixer for 'music'
+Nov 11 15:24 : client: [0] opened from 127.0.0.1:40636
+Nov 11 15:24 : avahi: Service 'Music Player' successfully established.
+Nov 11 15:24 : player: played "The Life Of Pablo/12. Real Friends.mp3"
+Nov 11 15:24 : output: Failed to open mixer for 'music'
+Nov 11 15:28 : player: played "Blonde/02 Ivy.mp3"
+Nov 11 15:31 : output: Failed to open mixer for 'music'
+Nov 11 15:35 : player: played "Blonde/14 White Ferrari.mp3"
+Nov 11 15:41 : client: [0] closed
+Nov 11 20:27 : client: [0] opened from 127.0.0.1:57760
+Nov 11 20:27 : alsa_mixer: Failed to read mixer for 'music': no such mixer control: PCM
+Nov 11 20:27 : avahi: Service 'Music Player' successfully established.
+Nov 11 20:27 : output: Failed to open mixer for 'music'
+Nov 11 20:31 : player: played "Blonde/02 Ivy.mp3"
+Nov 11 20:32 : player: played "Blonde/14 White Ferrari.mp3"
+Nov 11 20:36 : player: played "Blonde/14 White Ferrari.mp3"
+Nov 11 20:38 : output: Failed to open mixer for 'music'
+Nov 11 20:41 : player: played "The Life Of Pablo/10. Waves.mp3"
+Nov 11 21:01 : client: [0] closed
+Nov 11 21:02 : client: [1] opened from 127.0.0.1:59170
+Nov 11 21:02 : output: Failed to open mixer for 'music'
+Nov 11 21:03 : client: [1] closed
+Nov 11 21:07 : player: played "Blonde/02 Ivy.mp3"
